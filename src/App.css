@@ -36,3 +36,13 @@ background-color: rgb(252, 200, 104);
 .white {
 background-color: rgb(131, 131, 255);
 }
+
+.selected {
+    background-color: blue;
+}
+.available {
+height: 12px;
+width: 12px;
+border-radius: 50%;
+background-color: green;
+}
